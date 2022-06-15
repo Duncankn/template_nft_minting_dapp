@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa4d33763c340542d87e82d6a598900f3c273c0de",
+  "SCAN_LINK": "https://explorer.pops.one/address/0xa4d33763c340542d87e82d6a598900f3c273c0de",
+  "NETWORK": {
+    "NAME": "Harmony",
+    "SYMBOL": "ONE",
+    "ID": 1666700000
+  },
+  "NFT_NAME": "Art of Shapes Test",
+  "SYMBOL": "AST",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
