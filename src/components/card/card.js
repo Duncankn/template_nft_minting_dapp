@@ -3,7 +3,7 @@ import "./card.css";
 
 export default function Card(props) {
   const basePicUrl =
-    "https://gateway.pinata.cloud/ipfs/QmTB3d5hkv3gEa7K9BvDpvgYfwGXu7PfcLuhCVgXtbMwAP/";
+    "https://dweb.link/ipfs/QmTB3d5hkv3gEa7K9BvDpvgYfwGXu7PfcLuhCVgXtbMwAP/";
   const projectName = "The Art";
 
   const imageUrl = basePicUrl + props.id + ".png";
